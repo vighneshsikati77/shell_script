@@ -1,0 +1,3 @@
+apple 12 red
+banana 8 yellow
+mango 15 green
